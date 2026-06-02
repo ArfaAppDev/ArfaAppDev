@@ -17,7 +17,7 @@ using Flutter and Dart.
 
 ## 🌍 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ArfaAppDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://github.com/ArfaAppDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arfa-noor-254a63365/)
 
 ## 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
@@ -33,7 +33,8 @@ in people's lives ✨
 
 ## 🌸 Quote I Live By
 > <B>"The best way to predict the future 
-> is to create it."</B> — Abraham Lincoln
+> is to create it." — Abraham Lincoln </B>
+
 <p align="center">
 ✨ Thanks for visiting my GitHub profile ✨
 </p>
