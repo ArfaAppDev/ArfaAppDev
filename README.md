@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Arfa
+# 👋 Hello, I'm Arfa Noor
 
 ## 🗂️ About Me
 I'm a passionate Flutter developer 
@@ -20,12 +20,7 @@ using Flutter and Dart.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://github.com/ArfaAppDev)
 
 ## 🛠️ Languages and Tools:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
 ## 💡 Developer Mindset
 Code is not just about solving problems —
 it's about crafting experiences that 
@@ -37,5 +32,8 @@ and build apps that make a difference
 in people's lives ✨
 
 ## 🌸 Quote I Live By
-> "The best way to predict the future 
-> is to create it." — Abraham Lincoln
+> <B>"The best way to predict the future 
+> is to create it."</B> — Abraham Lincoln
+<p align="center">
+✨ Thanks for visiting my GitHub profile ✨
+</p>
